@@ -161,7 +161,7 @@
 	contains = list(/obj/item/clothing/head/roguetown/chef)
 
 /datum/supply_pack/rogue/Clothing/maidband
-	name = "Maid's Headbad"
+	name = "Maid's Headband"
 	cost = 5
 	contains = list(/obj/item/clothing/head/roguetown/maidband)
 
@@ -169,6 +169,11 @@
 	name = "Maid's Apron"
 	cost = 5
 	contains = list(/obj/item/clothing/cloak/apron/maid)
+
+/datum/supply_pack/rogue/Clothing/maiddress
+	name = "Maid's Dress"
+	cost = 5
+	contains = list(/obj/item/clothing/suit/roguetown/shirt/dress/maid)
 
 /datum/supply_pack/rogue/Clothing/wizhat
 	name = "Wizard's Hat"
